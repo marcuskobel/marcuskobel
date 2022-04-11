@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @marcuskobel. A nobody.
+- 👀 I’m interested in programming in general.
+- 🌱 I’m currently learning whatever is easy enough for me to make things happen in the screen.
+- 💞️ I’m looking to collaborate on whatever I push to this repo.
+- 📫 How to reach me? Don't know. Push anything to this repo and magic should happen.
