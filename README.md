@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @marcuskobel. A nobody.
+- 👋 Hi, I’m @marcuskobel. A complete and absolute nobody.
 - 👀 I’m interested in programming in general.
 - 🌱 I’m currently learning whatever is easy enough for me to make things happen in the screen.
 - 💞️ I’m looking to collaborate on whatever I push to this repo.
